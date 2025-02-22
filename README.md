@@ -1,4 +1,4 @@
-# Code-for-Thesis-GNNs-for-feature-based-clustering-of-German-s-energy-grid
+# Code-for-Thesis-GNNs-for-feature-based-clustering-of-Germanys-energy-grid
 This repository provides the code for my thesis.
 The notebooks are most important.
 In "preliminary_work" there is some initial trying out work and investigation of the dataset and some plotting.
