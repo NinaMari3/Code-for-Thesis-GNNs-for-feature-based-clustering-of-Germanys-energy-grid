@@ -1,4 +1,4 @@
-# utils_variance.py
+# based on Kibidis utils.py, but here the variance of capactiy factor is uses 
 from torch import Tensor
 import torch_geometric.utils as pyg_utils
 from torch_geometric.data import Data
